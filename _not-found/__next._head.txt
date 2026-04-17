@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[23663,["/Portfolio/_next/static/chunks/0_4q2w77bhvae.js"],"ViewportBoundary"]
+3:I[23663,["/Portfolio/_next/static/chunks/0_4q2w77bhvae.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Frontend Developer — Portfolio"}],["$","meta","1",{"name":"description","content":"Портфолио frontend-разработчика. React, Next.js, TypeScript. Современные веб-приложения и интерфейсы."}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Md37IJFtVVyyfP6CXQv4h"}
